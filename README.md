@@ -1,8 +1,6 @@
 Hi iam Zimad
-
-🤖 MLOps Enthusiast passionate about building intelligent systems
-
-💡 Interested in innovative technologies and solving real-world problems
+ MLOps Enthusiast passionate about building intelligent systems
+ Interested in innovative technologies and solving real-world problems
 🤝 Open to collaborating on AI, MLOps and Startup Projects
 📈 Entrepreneurial mindset with a strong interest in Startups and Product Building
 ⚡ I enjoy turning ideas into projects and projects into opportunities
