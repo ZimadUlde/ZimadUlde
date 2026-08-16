@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**ZimadUlde/ZimadUlde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm currently learning AI, Agentic AI and MLOps
 
-Here are some ideas to get you started:
+🤖 MLOps Enthusiast passionate about building intelligent systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interested in innovative technologies and solving real-world problems
+
+🌱 Exploring AI Agents, Automation, Cloud and Scalable Applications
+
+🤝 Open to collaborating on AI, MLOps and Startup Projects
+
+📈 Entrepreneurial mindset with a strong interest in Startups and Product Building
+
+💬 Ask me about AI Technology, Startups and Innovation
+
+⚡ I enjoy turning ideas into projects and projects into opportunities
