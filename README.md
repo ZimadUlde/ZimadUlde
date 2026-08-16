@@ -44,3 +44,15 @@ Hi iam Zimad
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Zimad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZimadUlde&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimadUlde&layout=compact&theme=dark)
+
+## ✍️ Random Dev Quote
+
+> "Don't worry about anything. Just do what you can and be the best you can be."
+>
+> — Douglas Crockford
