@@ -1,7 +1,5 @@
 Hi iam Zimad
 
-🚀 I'm currently learning AI, Agentic AI and MLOps
-
 🤖 MLOps Enthusiast passionate about building intelligent systems
 
 💡 Interested in innovative technologies and solving real-world problems
